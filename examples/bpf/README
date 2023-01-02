@@ -1,8 +1,3 @@
-eBPF toy code examples (running in kernel) to familiarize yourself
-with syntax and features:
-
- - bpf_shared.c		-> Ingress/egress map sharing example
- - bpf_tailcall.c	-> Using tail call chains
- - bpf_cyclic.c		-> Simple cycle as tail calls
- - bpf_graft.c		-> Demo on altering runtime behaviour
- - bpf_map_in_map.c     -> Using map in map example
+version https://git-lfs.github.com/spec/v1
+oid sha256:0492c1a6cf9ca280624858bd84f98f0bba88544d441e6cbd271700c0d2eed12c
+size 346
